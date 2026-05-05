@@ -22,7 +22,7 @@ from highrise.__main__ import main as highrise_main, BotDefinition
 # ============================================================
 # AYARLAR (ODA ID VE BOT TOKEN BURAYA YAZILACAK)
 # ============================================================
-ROOM_ID   = "63426d9705502b97912cc73b" # LÜTFEN KENDİ ODA ID'Nİ BURAYA YAZ
+ROOM_ID   = "094ecf868c1ad4d055ce6060b2b2f1e5873cddd711c538995296a39ead61e107" # LÜTFEN KENDİ ODA ID'Nİ BURAYA YAZ
 BOT_TOKEN = "d6e81c18efdaf8b1a82940fc16028009f45fe8f8df8119e3fc863b43d1e350ee" # LÜTFEN KENDİ BOT TOKEN'INI BURAYA YAZ
 ROOM_NAME = ""
 
